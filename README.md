@@ -39,21 +39,27 @@ https://app.powerbi.com/groups/me/reports/8f403f92-1b74-4fd9-9d05-df49e4ce0a90/R
 ----- A Power BI dashboard with graphs and KPIs comparing against budget
 
 
-## Steps followed 
+## Steps followed:
 
 ### In SQL Sever:
 
-- Step 1 : Load data into SQL Sever, dataset is a bak file.
-- Step 2 : Cleansing data from necessary tables with query statements.
-- Step 3 : Export data from results after executing query statements in SQL.
+- Step 1: Load data into SQL Sever, dataset is a bak file.
+- Step 2: Cleansing data from necessary tables with query statements.
+- Step 3: Export data from results after executing query statements in SQL.
 
 ### In Power BI:
 - Step 1: Load data into Power BI, datasets are csv file.
 - Step 2: Checking data again: columns, type, null or missing values,...
-- Step 3 : Load and add data into data model.
+- Step 3: Load and add data into data model.
 - Step 4: Write DAX to Calculate measures for dashboard: 
       - Budget Amount = SUM(Fact_Budget[Budget])
       - Sales = SUM(Fact_InternetSales[SalesAmount])	
       - (Sales - Budget) = [Sales] - [Budget Amount]
       - Sales/BudgetAmount = DIVIDE([Sales], [Budget Amount])  
 - Step 5: Building dashboard
+
+## Insight:
+### Snapshot of Dashboard (Power BI Sevice):
+![image](https://github.com/user-attachments/assets/aecde9a8-e14c-47b7-adab-14bc77ce529b)
+
+![image](https://github.com/user-attachments/assets/730751ef-3e17-44de-b9f5-211717e85283)
