@@ -12,31 +12,31 @@ Necessary Systems: Power BI, CRM Systems
 
 ### User Stories:
 
-No #
-As a (role)
-I want (request/demand)
-So that I (user value)
-Acceptance Criteria
-1
-Sales Manager
-To get a dashboard overview of Internet sales
-Can follow better which customers and products sell the best
-A Power BI dashboard which updates data once a day
-2
-Sales Representative
-A detailed overview of Internet sales per Customer
-Can follow up with my customers that buy the most and who we can sell one to
-A Power BI dashboard which allows me to filter data for each Customer
-3
-Sales Representative
-A detailed overview of Internet sales per Product
-Can follow up my products that sell the most
-A Power BI dashboard which allows me to filter data for each Product
-4
-Sales Manager
-A dashboard overview of Internet sales
-Follow sales over time against the budget
-A Power BI dashboard with graphs and KPIs comparing against budget
+- No #
+-- As a (role)
+--- I want (request/demand)
+---- So that I (user value)
+----- Acceptance Criteria
+- 1
+-- Sales Manager
+--- To get a dashboard overview of Internet sales
+---- Can follow better which customers and products sell the best
+----- A Power BI dashboard which updates data once a day
+- 2
+-- Sales Representative
+--- A detailed overview of Internet sales per Customer
+---- Can follow up with my customers that buy the most and who we can sell one to
+----- A Power BI dashboard which allows me to filter data for each Customer
+- 3
+-- Sales Representative
+--- A detailed overview of Internet sales per Product
+---- Can follow up my products that sell the most
+----- A Power BI dashboard which allows me to filter data for each Product
+- 4
+-- Sales Manager
+--- A dashboard overview of Internet sales
+---- Follow sales over time against the budget
+----- A Power BI dashboard with graphs and KPIs comparing against budget
 
 
 ## Steps followed 
