@@ -52,8 +52,8 @@ A Power BI dashboard with graphs and KPIs comparing against budget
 - Step 2: Checking data again: columns, type, null or missing values,...
 - Step 3 : Load and add data into data model.
 - Step 4: Write DAX to Calculate measures for dashboard: 
-Budget Amount = SUM(Fact_Budget[Budget])
-Sales = SUM(Fact_InternetSales[SalesAmount])	
-Sales - Budget = [Sales] - [Budget Amount]
-Sales/BudgetAmount = DIVIDE([Sales], [Budget Amount])  
+      - Budget Amount = SUM(Fact_Budget[Budget])
+      - Sales = SUM(Fact_InternetSales[SalesAmount])	
+      - Sales - Budget = [Sales] - [Budget Amount]
+      - Sales/BudgetAmount = DIVIDE([Sales], [Budget Amount])  
 - Step 5: Building dashboard
