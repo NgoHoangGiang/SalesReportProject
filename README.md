@@ -60,6 +60,6 @@ https://app.powerbi.com/groups/me/reports/8f403f92-1b74-4fd9-9d05-df49e4ce0a90/R
 
 ## Insight:
 ### Snapshot of Dashboard (Power BI Sevice):
-![image](https://github.com/user-attachments/assets/aecde9a8-e14c-47b7-adab-14bc77ce529b)
+![image](https://github.com/user-attachments/assets/271b75f1-1e00-4f96-9c9f-eb016b8d07f9)
 
-![image](https://github.com/user-attachments/assets/730751ef-3e17-44de-b9f5-211717e85283)
+![image](https://github.com/user-attachments/assets/e90a00dc-cddf-4661-a792-9cc81635de94)
