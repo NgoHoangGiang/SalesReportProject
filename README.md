@@ -6,9 +6,9 @@ https://app.powerbi.com/groups/me/reports/8f403f92-1b74-4fd9-9d05-df49e4ce0a90/R
 ## Business Demand Overview and User Stories:
 
 ### Business Demand Overview:
-Reporter: Steve – Sales Manager
-Value of Change: Visual dashboards and improved Sales reporting or Follow up for sales force
-Necessary Systems: Power BI, CRM Systems
+- Reporter: Steve – Sales Manager
+- Value of Change: Visual dashboards and improved Sales reporting or Follow up for sales force
+- Necessary Systems: Power BI, CRM Systems
 
 ### User Stories:
 
@@ -54,6 +54,6 @@ Necessary Systems: Power BI, CRM Systems
 - Step 4: Write DAX to Calculate measures for dashboard: 
       - Budget Amount = SUM(Fact_Budget[Budget])
       - Sales = SUM(Fact_InternetSales[SalesAmount])	
-      - Sales - Budget = [Sales] - [Budget Amount]
+      - (Sales - Budget) = [Sales] - [Budget Amount]
       - Sales/BudgetAmount = DIVIDE([Sales], [Budget Amount])  
 - Step 5: Building dashboard
