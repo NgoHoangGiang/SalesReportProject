@@ -1,4 +1,4 @@
-# Sales-Report-Projects:
+# Sales Report Projects:
 
 ### Dashboard Link : 
 https://app.powerbi.com/groups/me/reports/8f403f92-1b74-4fd9-9d05-df49e4ce0a90/ReportSection?experience=power-bi 
